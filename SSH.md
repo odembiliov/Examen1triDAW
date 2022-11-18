@@ -18,3 +18,4 @@ y por último dentro de este crearemos un archivo con el nombre *ejercicio2.txt*
 ```
 sudo nano ejercicio2.txt
 ```
+![Archivo](https://github.com/odembiliov/Examen1triDAW/blob/main/ejercicio2.png)
