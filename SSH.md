@@ -6,7 +6,7 @@ crea un archivo llamador "ejercicio2.txt"
 ## Accedemos al servidor mediante SSH
 Con el usuario que nos han idicado anteriormente, utilizaremos el siguiente comando añadiendo la IP del servidor
 ```
-ssh usuario@192.1680.168
+ssh usuario@192.168.0.168
 ```
 ![Acceso](https://github.com/odembiliov/Examen1triDAW/blob/main/accesossh.png)
 Una vez hemos accedido mediante ssh a la máquina , iremos a */var/www* y una vez dentro crearemos una carpeta con nuestro nombre
