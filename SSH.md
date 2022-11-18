@@ -8,4 +8,13 @@ Con el usuario que nos han idicado anteriormente, utilizaremos el siguiente coma
 ```
 ssh usuario@192.1680.168
 ```
-![Acceso](https://drive.google.com/file/d/1SMRA1rwZDADCrWaAnWaBOnP0_53biTy3/view)  
+![Acceso](https://github.com/odembiliov/Examen1triDAW/blob/main/accesossh.png)
+Una vez hemos accedido mediante ssh a la máquina , iremos a */var/www* y una vez dentro crearemos una carpeta con nuestro nombre
+```
+cd /var/www
+mkdir olaya
+```
+y por último dentro de este crearemos un archivo con el nombre *ejercicio2.txt*
+```
+sudo nano ejercicio2.txt
+```
