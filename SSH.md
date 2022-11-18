@@ -1,4 +1,4 @@
-# Ejercicio 1 -> SSH
+# Ejercicio 2 -> SSH
 `Enunciado:` Documenta todos los pasos realizados en un archivo MarkDown.  
 Accede mediante ssh a la máquina que se muestra en la imagen.  
 Deberás ir a /var/www y crear una carpeta que contenga como nombre tu nombre propio,  
